@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T08:49:13.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.151 Whale/3.14.134.62 Safari/537.36" etag="xL0nVq7oGdbPSKS2_HEz" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T08:54:21.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.151 Whale/3.14.134.62 Safari/537.36" etag="ALmjSHCoTe7EsLcPyKIv" version="18.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1252" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -197,7 +197,7 @@
             <mxPoint x="630" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNe0UOwhw_iVBu4ZQgte-71" value="날씨상태" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="DNe0UOwhw_iVBu4ZQgte-71" value="날씨" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="710" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DNe0UOwhw_iVBu4ZQgte-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DNe0UOwhw_iVBu4ZQgte-72" edge="1">
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DNe0UOwhw_iVBu4ZQgte-75" value="일출시간" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="980" width="100" height="40" as="geometry" />
+          <mxGeometry x="710" y="925" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DNe0UOwhw_iVBu4ZQgte-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DNe0UOwhw_iVBu4ZQgte-76" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -238,7 +238,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DNe0UOwhw_iVBu4ZQgte-76" value="일몰시간" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="1030" width="100" height="40" as="geometry" />
+          <mxGeometry x="710" y="975" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DNe0UOwhw_iVBu4ZQgte-86" value="포함(H)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
@@ -297,31 +297,8 @@
         <mxCell id="UV0FL3rAqrB38_GYUXxQ-2" value="비밀번호" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iWhzMI61DdmHOvtYIJ2A-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-2" value="강수량" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="950" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-3" value="자외선지수" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="990" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-4" value="미세먼지" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1030" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iWhzMI61DdmHOvtYIJ2A-5" value="강수량" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="710" y="870" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-6" value="미세먼지" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="930" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iWhzMI61DdmHOvtYIJ2A-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iWhzMI61DdmHOvtYIJ2A-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="756.8011801872476" y="990.7094171967465" as="sourcePoint" />
-            <mxPoint x="630" y="810" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="iWhzMI61DdmHOvtYIJ2A-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iWhzMI61DdmHOvtYIJ2A-5" edge="1">
           <mxGeometry relative="1" as="geometry">
